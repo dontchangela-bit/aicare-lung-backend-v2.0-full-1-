@@ -1,0 +1,22 @@
+# AI-CARE Lung 後台系統 v2.0
+# Python 套件需求
+
+# Streamlit 框架
+streamlit>=1.28.0
+
+# Google Sheets API
+gspread>=5.12.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+
+# OpenAI API（用於 AI 摘要）
+openai>=1.3.0
+
+# 資料處理
+pandas>=2.0.0
+
+# 圖表視覺化
+plotly>=5.18.0
+
+# 統計分析
+scipy>=1.11.0
